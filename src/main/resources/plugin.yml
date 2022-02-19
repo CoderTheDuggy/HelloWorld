@@ -1,0 +1,9 @@
+name: DuckGuilds
+version: ${project.version}
+main: at.theduggy.duckguilds.Main
+
+commands:
+  guild:
+    description: The base guild-command
+  temp:
+    description: wad!
